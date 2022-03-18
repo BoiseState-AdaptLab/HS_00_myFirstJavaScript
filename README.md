@@ -8,7 +8,7 @@ In this lab you will learn how to write your first javascript program
 
 - [ ] Inside the _Scripts_ directory, create a JavaScript file called _App.js_
 
-- [ ] In the ```<head/></head>``` section of the index.html file, write code to correctly reference the _App.js_ file you just created. 
+- [ ] In the ```<head/></head>``` section of the index.html file, write code to correctly reference the _App.js_ file you just created. (be sure to use defer)
 
 ## Challenge 2
 
